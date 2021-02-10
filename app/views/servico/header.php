@@ -1,0 +1,1 @@
+<script src="<?php echo DIRJS?>action_layout.js"></script>
